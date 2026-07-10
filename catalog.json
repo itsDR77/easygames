@@ -10,4 +10,15 @@
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/meccha-chameleon-pc-cd-key-1.jpg",
     "tamano": "2.4 GB"
   }
+  {
+    "id": "escape-the-backrooms",
+    "nombre": "Escape The Backrooms",
+    "version": "1.3.0",
+    "descripcion": "Escape the Backrooms is a 1-4 player cooperative exploration and horror game. Travel through more than 30 levels of shocking back rooms while avoiding entities and other dangers. Your mission is to escape, but be careful: nothing will ensure you survive.",
+    "url": "https://archive.org/download/escape-the-backrooms_202607/Escape%20the%20Backrooms.zip",
+    "fixurl": "https://archive.org/download/fix-repair_202607/Fix%20Repair.zip",
+    "exe": "Backrooms.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/wp14397470.jpg",
+    "tamano": "25.4 GB"
+  }
 ]
