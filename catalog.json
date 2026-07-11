@@ -20,5 +20,16 @@
     "exe": "Backrooms.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/wp14397470.jpg",
     "tamano": "25.4 GB"
+  },
+  {
+    "id": "peak",
+    "nombre": "Peak",
+    "version": "1.61.0",
+    "descripcion": "PEAK is a cooperative climbing game where a single mistake can be fatal. Whether alone or in a group, the only hope of leaving the mysterious island is by climbing to the top of the central mountain. Do you have what it takes to climb the PEAK?",
+    "url": "https://archive.org/download/peak_20260711/PEAK.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260711/Fix%20Repair.zip",
+    "exe": "PEAK.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/PEAK_KeyArt.jpg",
+    "tamano": "2.0 GB"
   }
 ]
