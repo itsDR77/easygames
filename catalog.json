@@ -31,5 +31,16 @@
     "exe": "PEAK.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/PEAK_KeyArt.jpg",
     "tamano": "2.0 GB"
+  },
+  {
+    "id": "golf-it",
+    "nombre": "Golf It!",
+    "version": "1.0.1",
+    "descripcion": "Embark on an exciting journey with Golf It! Seize your putter, rally your friends, and immerse yourself in an epic minigolf adventure. Conquer countless courses, create lasting memories, and refine your skills to emerge as the ultimate minigolf champion. Your thrilling golfing odyssey begins here!",
+    "url": "https://archive.org/download/golf-it/Golf%20It.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260711_1715/Fix%20Repair.zip",
+    "exe": "GolfIt.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/image.jpg",
+    "tamano": "6.5 GB"
   }
 ]
