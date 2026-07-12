@@ -64,5 +64,16 @@
     "exe": "Gnomium.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/burglin-gnomes-pc-steam-cover.jpg",
     "tamano": "3.5 GB"
+  },
+  {
+    "id": "secret-neighbor",
+    "nombre": "Secret Neighbor",
+    "version": "1.8.8.0",
+    "descripcion": "Secret Neighbor is a suspenseful multiplayer horror game in which a group of children try to rescue their friend from the neighbor's basement. The problem is that one of those children is the neighbor himself in disguise.",
+    "url": "https://archive.org/download/secret-neighbor_202607/Secret%20Neighbor.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260712_1343/Fix%20Repair.zip",
+    "exe": "Secret Neighbor.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/secret-neighbor-free-download-v1-8-8-0-multiplayer-steamora-v0-fzGLJ0Om2fKibqz51pf9Qo-SBvhG4xLRi3y4Wfc_C4s.jpg",
+    "tamano": "6.6 GB"
   }
 ]
