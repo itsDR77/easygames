@@ -53,5 +53,16 @@
     "exe": "Raft.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/raft-free-download-preinstalled-steamrip.jpg",
     "tamano": "2.9 GB"
+  },
+  {
+    "id": "burglin-gnomes",
+    "nombre": "Burglin' Gnomes",
+    "version": "1.0.0",
+    "descripcion": "An online cooperative game about sneaking into houses and wreaking havoc like a tiny gnome. Avoid dangers, reuse stolen items and complete tasks to meet the demands of the supreme gnome. Build equipment and upgrade your home to make your missions easier and more successful.",
+    "url": "https://archive.org/download/burglin-gnomes/Burglin%20Gnomes.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260712_1111/Fix%20Repair.zip",
+    "exe": "Gnomium.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/burglin-gnomes-pc-steam-cover.jpg",
+    "tamano": "3.5 GB"
   }
 ]
