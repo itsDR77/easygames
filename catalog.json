@@ -42,5 +42,16 @@
     "exe": "GolfIt.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/image.jpg",
     "tamano": "6.5 GB"
+  },
+  {
+    "id": "raft",
+    "nombre": "Raft",
+    "version": "1.1.07",
+    "descripcion": "Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+    "url": "https://archive.org/download/raft_20260712/Raft.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260712/Fix%20Repair.zip",
+    "exe": "Raft.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/raft-free-download-preinstalled-steamrip.jpg",
+    "tamano": "2.9 GB"
   }
 ]
