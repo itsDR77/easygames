@@ -97,5 +97,16 @@
     "exe": "Gamble With Your Friends.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/capsule_231x87.jpg",
     "tamano": "2.1 GB"
+  },
+  {
+    "id": "sons-of-the-forest",
+    "nombre": "Sons Of The Forest",
+    "version": "03.10.2025",
+    "descripcion": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+    "url": "https://archive.org/download/sons-of-the-forest_202607/Sons%20Of%20The%20Forest.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260713_2206/Fix%20Repair.zip",
+    "exe": "SonsOfTheForest.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/wp12152131.jpg",
+    "tamano": "14.9 GB"
   }
 ]
