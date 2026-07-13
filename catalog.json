@@ -86,5 +86,16 @@
     "exe": "Ride.exe",
     "thumbnail": "http://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/rv-there-yet-pc-steam-cover.jpg",
     "tamano": "2.2 GB"
+  },
+  {
+    "id": "gamble-with-your-friends",
+    "nombre": "Gamble With Your Friends",
+    "version": "1.0.11",
+    "descripcion": "An online 1-6 player co-op casino crawler where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+    "url": "https://archive.org/download/gamble-with-your-friends/Gamble%20With%20Your%20Friends.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260713_1842/Fix%20Repair.zip",
+    "exe": "Gamble With Your Friends.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/capsule_231x87.jpg",
+    "tamano": "2.1 GB"
   }
 ]
