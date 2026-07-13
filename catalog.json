@@ -75,5 +75,16 @@
     "exe": "Secret Neighbor.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/secret-neighbor-free-download-v1-8-8-0-multiplayer-steamora-v0-fzGLJ0Om2fKibqz51pf9Qo-SBvhG4xLRi3y4Wfc_C4s.jpg",
     "tamano": "6.6 GB"
+  },
+  {
+    "id": "rv-there-yet",
+    "nombre": "RV There Yet",
+    "version": "1.2.17120",
+    "descripcion": "A cooperative adventure that involves driving a motorhome back home.",
+    "url": "https://archive.org/download/rv-there-yet_202607/RV%20There%20Yet.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260713/Fix%20Repair.zip",
+    "exe": "Ride.exe",
+    "thumbnail": "http://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/rv-there-yet-pc-steam-cover.jpg",
+    "tamano": "2.2 GB"
   }
 ]
