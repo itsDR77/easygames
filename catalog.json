@@ -130,5 +130,16 @@
     "exe": "Schedule I.exe",
     "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/1eb36f22-6be1-4827-b0be-54fe0c9cc5e7.jpg",
     "tamano": "7.36 GB"
+  },
+  {
+    "id": "repo",
+    "nombre": "R.E.P.O",
+    "version": "0.4.4.3",
+    "descripcion": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "url": "https://archive.org/download/r.-e.-p.-o/R.E.P.O.zip",
+    "fixurl": "https://archive.org/download/fix-repair_20260715/Fix%20Repair.zip",
+    "exe": "REPO.exe",
+    "thumbnail": "https://raw.githubusercontent.com/itsDR77/easygames/refs/heads/main/header.jpg",
+    "tamano": "1.4 GB"
   }
 ]
